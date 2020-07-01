@@ -1,3 +1,5 @@
 # Pandas-Tutorial
-Here I have implemented all set of functions related to pandas with apprpriate docstrings for your help. And there some pretty cool functions as well which you can use in your projects while using pandas. 
-Happy Machine Learning!
+Here I have implemented almost all functions related to pandas with appropriate docstrings for your help.
+I've also implemented some amazing functions and programs for your reference which will be useful for your projects.
+
+Happy Learning
